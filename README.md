@@ -11,7 +11,7 @@ Table of contents
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-- [author](#author)
+- [Author](#author)
 
 Overview
 
@@ -20,7 +20,7 @@ Screenshot
 
 Links
 
-- Live Site URL: [Add live site URL here](https://subtle-elf-d54db5.netlify.app/)
+- Live Site URL: [https://subtle-elf-d54db5.netlify.app/]
 
 My process
 
